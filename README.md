@@ -1,1 +1,2 @@
-# ChromeWidget_youtubeplayer
+## YoutubePlayer
+# Chrome widget to support youtube play
